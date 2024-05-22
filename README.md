@@ -23,7 +23,8 @@
 ![image](https://github.com/darfinoc/Nike/assets/169962022/53ee26f7-9c8b-4634-9469-71fea0230c8e)
 
 
-我们可以添加收货地址（Address）以及付款方式（Payment），这里我使用的是 Fomepay 的信用卡支付， [点击获取Fomepay虚拟信用卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+我们可以添加收货地址（Address）以及付款方式（Payment），这里我使用的是 Fomepay 的信用卡支付
+- [点击获取Fomepay虚拟信用卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
 
 ![image](https://github.com/darfinoc/Nike/assets/169962022/fb93a920-9249-467a-8724-669a7024afd8)
 
